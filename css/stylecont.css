@@ -1,0 +1,21 @@
+body{
+  color: #f0d8d9;
+}
+#contactph h3{
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 900;
+}
+#contactph p{
+  font-size: 12px;
+  line-height: 22px;
+  font-weight: 400;
+}
+.form-control{
+  border-radius: 5px;
+  background-color: #d6564f;
+  color: #2d303a;
+}
+nav{
+  background-color: #2d303a;
+}

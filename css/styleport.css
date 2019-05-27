@@ -1,0 +1,16 @@
+.container-fluid{
+  background-color: #2d303a;
+  color: #666d89;
+}
+.btn{
+  border-color: #666d89;
+  color: #666d89;
+}
+div .active{
+  border-color: #fff;
+  color: #fff;
+}
+.col img{
+  border-radius: 0px;
+  margin: 5px;
+}

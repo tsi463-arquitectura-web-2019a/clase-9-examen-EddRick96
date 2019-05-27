@@ -1,0 +1,46 @@
+/*GENERAL*/
+body{
+  font-family: "Arial";
+}
+/*NAVBAR*/
+.navbar{
+  background-color: #2d303a;/*#f06c64;*/
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+.navbar a{
+  color: #ffffff;
+}
+ul .active a{
+  color: #f06c64;
+}
+ul li a{
+  font-size: 12px;
+  line-height: 6px;
+}
+.navbar-brand{
+  font-size: 25px;
+  line-height: 6px;
+  font-weight: 700;
+  text-align: left;
+}
+header span{
+  color: #f06c64;
+}
+.navbar-toggler {
+    color: #fff;
+    background-color: #f06c64;
+    border-color: #fff;
+}
+/*CONTAINER*/
+.container-fluid{
+  background-color: #f06c64;
+  padding: 30px;
+}
+.col img{
+  border-radius: 27px;
+  box-shadow: 30px;
+}
